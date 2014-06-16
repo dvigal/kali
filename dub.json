@@ -1,0 +1,11 @@
+{
+	"name" : "Kali",
+	"description" : "Utils",
+	"dependencies" : {
+	},
+	"buildTypes": {
+		"debug": {
+			"buildOptions": ["unittests", "debugMode"]
+		}
+	}
+}
