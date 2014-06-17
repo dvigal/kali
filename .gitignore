@@ -1,3 +1,9 @@
+.dub
+.project
+.settings
+.buildpath
+.*
+kali
 source/kali/main.d
 source/kali/event.d
 source/kali/stream.d
